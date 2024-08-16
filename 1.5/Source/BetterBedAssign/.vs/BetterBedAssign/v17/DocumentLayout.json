@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michael\\source\\repos\\better-bed-assignment\\1.5\\Source\\BetterBedAssign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECDAF9F-200B-4F66-BDEF-C5A47AE77874}|BetterBedAssign.csproj|c:\\users\\michael\\source\\repos\\better-bed-assignment\\1.5\\source\\betterbedassign\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECDAF9F-200B-4F66-BDEF-C5A47AE77874}|BetterBedAssign.csproj|solutionrelative:mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECDAF9F-200B-4F66-BDEF-C5A47AE77874}|BetterBedAssign.csproj|C:\\Users\\Michael\\source\\repos\\better-bed-assignment\\1.5\\Source\\BetterBedAssign\\assigndialogsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECDAF9F-200B-4F66-BDEF-C5A47AE77874}|BetterBedAssign.csproj|solutionrelative:assigndialogsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignDialogSearchBar.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\better-bed-assignment\\1.5\\Source\\BetterBedAssign\\AssignDialogSearchBar.cs",
+              "RelativeDocumentMoniker": "AssignDialogSearchBar.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\better-bed-assignment\\1.5\\Source\\BetterBedAssign\\AssignDialogSearchBar.cs",
+              "RelativeToolTip": "AssignDialogSearchBar.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwEUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:49:30.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mod.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\better-bed-assignment\\1.5\\Source\\BetterBedAssign\\Mod.cs",
+              "RelativeDocumentMoniker": "Mod.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\better-bed-assignment\\1.5\\Source\\BetterBedAssign\\Mod.cs",
+              "RelativeToolTip": "Mod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:49:30.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
